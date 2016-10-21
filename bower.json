@@ -1,0 +1,17 @@
+{
+  "name": "harmony-js",
+  "authors": [
+    "Mastersoft Group"
+  ],
+  "description": "A bower component to use Mastersoft Group Restful service",
+  "main": "harmony-js.js",
+  "license": "(C) Mastersoft Group",
+  "homepage": "https://github.com/MastersoftGroup/harmony-js",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+		".gitignore"
+  ]
+}
