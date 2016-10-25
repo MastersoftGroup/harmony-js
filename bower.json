@@ -1,17 +1,27 @@
 {
   "name": "harmony-js",
+	"version": "0.0.3",
   "authors": [
     "Mastersoft Group"
   ],
   "description": "A bower component to use Mastersoft Group Restful service",
-  "main": "harmony-js.js",
   "license": "(C) Mastersoft Group",
   "homepage": "https://github.com/MastersoftGroup/harmony-js",
+	"repository": {
+  	"type": "git",
+  	"url": "git@github.com:MastersoftGroup/harmony-js.git"
+	},
   "ignore": [
     "node_modules",
     "bower_components",
     "test",
     "tests",
-		".gitignore"
-  ]
+    ".gitignore"
+  ],
+	"files": {
+		"hraAutocomplete.js": "1.8.2",
+		"hra.js": "1.8.2",
+		"harmony.js": "1.6.1",
+		"harmony-ui.js": "1.6.1"
+	}
 }
