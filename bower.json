@@ -1,6 +1,6 @@
 {
   "name": "harmony-js",
-	"version": "0.0.3",
+	"version": "0.0.4",
   "authors": [
     "Mastersoft Group"
   ],
@@ -19,8 +19,8 @@
     ".gitignore"
   ],
 	"files": {
-		"hraAutocomplete.js": "1.8.2",
-		"hra.js": "1.8.2",
+		"hraAutocomplete.js": "1.8.12",
+		"hra.js": "1.8.12",
 		"harmony.js": "1.6.1",
 		"harmony-ui.js": "1.6.1"
 	}
